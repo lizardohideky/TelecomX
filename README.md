@@ -1,3 +1,5 @@
+![Image_Alt](https://github.com/lizardohideky/TelecomX/blob/main/imagen_colab.png)
+
 # TelecomX
 # 🌟 PROYECTO DE ETL - ANÁLISIS DE CHURN
 # TelecomX LATAM | Presentación Ejecutiva
