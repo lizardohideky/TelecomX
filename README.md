@@ -72,8 +72,7 @@ El conjunto de datos contiene información sobre **7,267 clientes** con las sigu
 
 1. **Clonar el repositorio:**
 ```bash
-[git clone https://github.com/tu-usuario/telecomx-churn-analysis.git
-cd telecomx-churn-analysis](https://github.com/lizardohideky/TelecomX.git)
+https://github.com/lizardohideky/TelecomX.git
 ```
 
 2. **Instalar las dependencias:**
