@@ -131,7 +131,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detal
 **Rol:** Cientifico de Datos    
 **Fecha:** Julio 2025
 
-<br><br>
+<br><br><br>
 
 # 📚 README - Análisis de Evasión de Clientes (Churn) - TelecomX Parte 2 
 
