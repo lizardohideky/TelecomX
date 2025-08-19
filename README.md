@@ -128,6 +128,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detal
 ---
 
 **Desarrollado por:** Hideky Lizardo  
-**Rol:** Analista de Datos  
+**Rol:** Cientifico de Datos  
 **Empresa:** TelecomX LATAM  
 **Fecha:** Julio 2025
